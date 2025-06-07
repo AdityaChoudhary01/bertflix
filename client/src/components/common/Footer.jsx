@@ -52,7 +52,7 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Gilbert Hutapea
+            Aditya Choudhary
           </a>
         </Typography>
       </Paper>
