@@ -1,3 +1,3 @@
-# BertFlix (MERN-MOVIE)
+# MyFlix (MERN-MOVIE)
 
 Backend (Server)
